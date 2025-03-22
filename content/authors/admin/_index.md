@@ -158,6 +158,6 @@ awards:
 Hello! My name is Mohamed Lamine.
 I am a student of Business Computer Science at RUDN University.
 I am deeply interested in cybersecurity, with a focus on protecting systems and data from digital threats.
-I enjoy exploring topics like network security, ethical hacking, and risk management.
+I enjoy exploring topics like network security, and risk management.
 In my free time, I like to stay updated on the latest cybersecurity trends, experiment with security tools, and work on personal projects to enhance my skills.
 I am passionate about using technology to create secure and efficient solutions for modern challenges.
